@@ -6,37 +6,43 @@ class menuMinuman:
     def ConnuClassic():
         bayar = int(input("Bayar     : "))
         print("Kembalian :",bayar-24000)
-        print('Total     :',24000)
+        print('Harga     :',24000)
+        print('Minuman   : CONNU CLASSIC ')
         print("")
 
     def RedVelvet():
         bayar = int(input("Bayar     : "))
         print("Kembalian :",bayar-25000)
-        print('Total     :',25000)
+        print('Harga     :',25000)
+        print('Minuman   : RED VELVET')
         print("")
         
     def LemonTea():
         bayar = int(input("Bayar     : "))
         print("Kembalian :",bayar-23000)
-        print('Total     :',23000)
+        print('Harga     :',23000)
+        print('Minuman   : LEMOT TEA  ')
         print("")
         
     def GreenTea():
         bayar = int(input("Bayar     : "))
         print("Kembalian :",bayar-21000)
-        print('Total     :',21000)
+        print('Harga     :',21000)
+        print('Minuman   : GREEN TEA ')
         print("")
 
     def MiloGreentea():
         bayar = int(input("Bayar     : "))
         print("Kembalian :",bayar-25000)
-        print('Total     :',25000)
+        print('Harga     :',25000)
+        print('Minuman   : MILO GREENTEA  ')
         print("")
 
     def ChocoMild():
         bayar = int(input("Bayar     : "))
         print("Kembalian :",bayar-20000)
-        print('Total     :',20000)
+        print('Harga     :',20000)
+        print('Minuman   : CHOCO MILD ')
         print("")
 
 i = 0
